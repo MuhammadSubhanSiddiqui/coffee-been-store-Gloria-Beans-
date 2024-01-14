@@ -1,0 +1,1 @@
+I and My team member prepare this project for our university semester project. We make a front-end website using Html and CSS for a online coffee store named Gloria Beans. We use external as well as internal CSS for this project. We make different webpages and link with eachother. 
